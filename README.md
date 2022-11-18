@@ -4,7 +4,7 @@ Backend Engineer and DevOps enthusiast with more than 5 years of experoces in so
 
 Expertise: CI/CD automation, Application Containerize and Orchestrates with Kubernetes and Python, Back-end design, Front-end
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza-a-razavi&show_icons=true&theme=dark/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=alireza-a-razavi&show_icons=true&theme=dark/" /> 
 
 
 
