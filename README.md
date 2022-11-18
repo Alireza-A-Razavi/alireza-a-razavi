@@ -10,7 +10,7 @@ Expertise: CI/CD automation, Application Containerize and Orchestrates with Kube
 
 ### contact
 
-[![Telegram Account](https://img.shields.io/badge/Channel-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/profan) 
+[![Telegram Account](https://img.shields.io/badge/Account-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/profan) 
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:seyedalirezaalavirazavi@gmail.com)
 [![Yahoo](https://img.shields.io/badge/yahoo-%230077B5.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:alirezaalavirazavi@yahoo.com)
 
