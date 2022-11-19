@@ -1,6 +1,6 @@
 # About me
 
-Backend Engineer and DevOps enthusiast with more than 5 years of experoces in software development, sme and startups dev team mentor and tem member, freelancing server side back-end tasks and DevOps as a hobby.
+Backend Engineer and DevOps enthusiast with more than 5 years of experience in software development, sme and startups dev team mentor and team member, freelancing server side back-end tasks and DevOps as a hobby.
 
 Expertise: CI/CD automation, Application Containerize and Orchestrates with Kubernetes and Python, Back-end design, Front-end
 
