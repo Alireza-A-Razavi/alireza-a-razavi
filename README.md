@@ -20,8 +20,7 @@ Expertise: CI/CD automation, Application Containerize and Orchestrates with Kube
 ### DevOps Skills:
 
 - Bash - Python
-<!-- - Ansible - Puppet -->
-<!-- - Terraform - Cloud Formation - CDKTF (Typescript) -->
+- Ansible
 - Docker - DockerCompose
 <!-- - Kubernetes - CKA - CKAD - CKS -->
 <!-- - Helm Package manager -->
@@ -39,7 +38,6 @@ Expertise: CI/CD automation, Application Containerize and Orchestrates with Kube
 - Airflow
 - MSK - MSK plugins - MSK connector - S3bucket
 - ETL DataFlow - Data Pipeline
-- Redshift - Hadoop cluster -->
 
 <!-- ### Cloud Skills:
 
@@ -50,7 +48,6 @@ Expertise: CI/CD automation, Application Containerize and Orchestrates with Kube
 ### Front-End Skills:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 
@@ -62,7 +59,7 @@ Expertise: CI/CD automation, Application Containerize and Orchestrates with Kube
 
 ### IDEs:
 
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![Neovim](https://img.shields.io/badge/-nvim-000?&logo=Neovim)
 
 ### Databases:
 
