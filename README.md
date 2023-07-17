@@ -4,9 +4,6 @@ Backend Engineer and DevOps enthusiast with more than 5 years of experience in s
 
 Expertise: CI/CD automation, Application Containerize and Orchestrates with Kubernetes and Python, Back-end design, Front-end
 
-  <img src="https://github-readme-stats.vercel.app/api?username=lavirez&show_icons=true&theme=dark" /> 
-
-
 
 ### contact
 
